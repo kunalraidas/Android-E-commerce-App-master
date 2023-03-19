@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128626067240",
+    "firebase_url": "https://freshokart-7cf0c.firebaseio.com",
+    "project_id": "freshokart-7cf0c",
+    "storage_bucket": "freshokart-7cf0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128626067240:android:0bf106899e46e05561321d",
+        "android_client_info": {
+          "package_name": "com.example.freshy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128626067240-27i85igbu96fdoep9p5fetvbn956seu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3KAJgUXD9968c-4xp588JiQNXx3Sr28Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128626067240-27i85igbu96fdoep9p5fetvbn956seu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
